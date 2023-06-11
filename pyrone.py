@@ -222,8 +222,7 @@ ONE_WORDS = [
     "NIKAL MADARCHOD",
     "RANDI KE BACHE",
     "TERA MAA MERI FAN",
-    "TERI SEXY BAHEN KI CHUT OP"
-]
+    "TERI SEXY BAHEN KI CHUT OP"]
 
 
 async def pyrone(client: Client, message: Message):
