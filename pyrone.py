@@ -168,23 +168,23 @@ if M5:
 
 if M1:
     M1.start()
-    M1.join_chat("XD")
+    M1.join_chat("TheAltron")
 
 if M2:
     M2.start()
-    M2.join_chat("XD")
+    M2.join_chat("TheAltron")
 
 if M3:
     M3.start()
-    M3.join_chat("XD")
+    M3.join_chat("TheAltron")
 
 if M4:
     M4.start()
-    M4.join_chat("XD")
+    M4.join_chat("TheAltron")
 
 if M5:
     M5.start()
-    M5.join_chat("XD")
+    M5.join_chat("TheAltron")
 
 print("Pyro-one Started Successfully")
 
