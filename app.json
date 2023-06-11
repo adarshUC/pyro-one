@@ -1,0 +1,34 @@
+{
+    "name": "Pyro-one",
+    "logo": "https://telegra.ph/file/7c88b7dcfe5251eb30522.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "XD"
+    ],
+      "buildpacks": [{
+      "url": "heroku/python"
+    }],
+    "env": {
+        "SESSION1": {
+            "value": "",
+            "required": true
+        },
+        "SESSION2": {
+            "value": "",
+            "required": false
+        },
+        "SESSION3": {
+            "value": "",
+            "required": false
+        },
+        "SESSION4": {
+            "value": "",
+            "required": false
+        },
+        "SESSION5": {
+            "value": "",
+            "required": false
+        }
+    }
+  }
