@@ -148,8 +148,8 @@ if M1:
     M1.add_handler(MessageHandler(restart, filters.command(["HAHAH", "#farar", "bisi", "#fucked"], prefixes=None) & filters.me))
 
 if M2:
-    M2.add_handler(MessageHandler(pyrone, filters.command(["T3RI", "L0L", "AJA", "AAJA", "START"], prefixes=None) & filters.me))
-    M2.add_handler(MessageHandler(restart, filters.command(["XD", "FARAR", "STOP", "FUCKED"], prefixes=None) & filters.me))
+    M2.add_handler(MessageHandler(pyrone, filters.command(["T3RI", "L0L", "AJA", "AAJA", "RANDIII"], prefixes=None) & filters.me))
+    M2.add_handler(MessageHandler(restart, filters.command(["XD", "#FARAR", "STOP", "FUCKED"], prefixes=None) & filters.me))
 
 if M3:
     M3.add_handler(MessageHandler(pyrone, filters.command(["T3RI", "L0L", "AJA", "AAJA", "START"], prefixes=None) & filters.me))
