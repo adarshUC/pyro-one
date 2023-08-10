@@ -135,7 +135,7 @@ async def pyrone(client: Client, message: Message):
         for word in ONE_WORDS:
             await client.send_chat_action(chat_id, "typing")
             await client.send_message(chat_id, word, reply_to_message_id=ruser)
-            await asyncio.sleep(1.5)
+            await asyncio.sleep(2)
     except FloodWait:
         pass
 
